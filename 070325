@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Meu currículo</title>
+    </head>
+    <body>
+        <h1>Apresentação:</h1>
+        Meu nome é Pedro Henrique Silva Lopes, moro em Belo Horizonte e sou um estudante de ciência da computação na UniBH, no Campus Estoril. Atualmente estou cursando o sétimo período.
+        <h2>Linguagens de programação:</h2>
+            <li>Java</li>
+            <li>SQL</li>
+            <li>Python</li>
+        <h2>Idiomas em ordem de proficiência:</h2>
+            <li>Português</li>
+            <li>Inglês</li>
+            <li>Espanhol</li>
+        <h2>Formas de contato:</h2>
+            <li><a href="https://instagram.com/pedrolopeees">Instagram</a></li>
+            <li><a href="https://github.com/pedrolopeees">Github</a></li>
+            <li><a href="https://www.linkedin.com/in/pedro-henrique-a49461252/">Linkedin</a></li>
+        <h2>Foto</h2>
+            <img src="https://i.imgur.com/aMf4ZIk.jpeg" alt="pedro" />
+        </ul>
+    </body>
+</html>
